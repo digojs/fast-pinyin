@@ -1,0 +1,15 @@
+{
+    "name": "fast-pinyin",
+    "version": "0.0.1",
+    "repository": "https://github.com/digojs/fast-pinyin",
+    "description": "汉字转拼音函数",
+    "keywords": [
+        "拼音",
+        "汉语",
+        "汉字",
+        "中文",
+        "Pinyin"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>"
+}
