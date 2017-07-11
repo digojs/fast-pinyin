@@ -5,7 +5,7 @@
 - 仅支持 Node.js 环境。
 - 比 [pinyin](https://www.npmjs.com/package/pinyin) 和 [pinyinlite](https://www.npmjs.com/package/pinyinlite) 更快、更小、更节约内存。
 - 完整字库，支持所有简繁汉字。
-- 支持多音字。
+- 支持多音字，但不支持智能识别。
 - 支持音调。
 - 支持特殊字符。
 - 没有任何依赖项。
